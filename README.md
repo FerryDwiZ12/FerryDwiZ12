@@ -31,7 +31,7 @@
     </td>
     <td align="right">
     <a href="#FerryDwiZ12-title">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?FerryDwiZ12&theme=react&border=61dafb&hide_border=true" alt="FerryDwiZ12" align="right"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FerryDwiZ12&theme=react&border=61dafb&hide_border=true" alt="FerryDwiZ12" align="right"/>
     </a>
     </td>
   </tr>
