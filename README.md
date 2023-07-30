@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🤝🏻 Connect with Me!
-[![Email: ferrydwizulkhifli@gmail.com](https://img.shields.io/badge/-darulikhssan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ferrydwizulkhifli@gmail.com)
+[![Email: ferrydwizulkhifli@gmail.com](https://img.shields.io/badge/-ferrydwizulkhifli@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ferrydwizulkhifli@gmail.com)
 [![LinkedIn: FerryDwiZulkhifli](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferrydwizulkhifli/)](https://www.linkedin.com/in/ferrydwizulkhifli/)&nbsp;
 [![Instagram: Follow ferrydwizulkhifli](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ferrydwizulkhifli)&nbsp;
 ---
