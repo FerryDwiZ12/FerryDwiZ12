@@ -1,4 +1,4 @@
-![alt text](./banner.jpeg)
+
 
 <h1 align="left" id="macropower-title">:wave: Hello there!</h1>
 
