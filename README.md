@@ -1,10 +1,8 @@
-### Hi there 👋
-
 <h1 align="left" id="macropower-title">:wave: Hello there!</h1>
 
 ![Version: 09.02.2023](https://img.shields.io/badge/version-25.12.2022-informational)&nbsp;
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=darul-eng)&nbsp;
-[![GitHub: farkhanmaul](https://img.shields.io/github/followers/darul-eng?label=follow&style=social)](https://github.com/darul-eng)&nbsp;
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=FerryDwiZ12)&nbsp;
+[![GitHub: farkhanmaul](https://img.shields.io/github/followers/FerryDwiZ12?label=follow&style=social)](https://github.com/FerryDwiZ12)&nbsp;
 
 
 <table>
@@ -17,7 +15,7 @@
 <br> :computer: &nbsp;Connect with me on <b>LinkedIn<b>
 </td>
 <td align="right">
-<a href="#darul-eng-title">
+<a href="#FerryDwiZ12-title">
   <img src="https://github-readme-stats.vercel.app/api?username=FerryDwiZ12&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="FerryDwiZ12" align="right"/>
 </a>
 </td>
@@ -40,7 +38,7 @@
 </table>
 
 <!---
-darul-eng/FerryDwiZ12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FerryDwiZ12/FerryDwiZ12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
