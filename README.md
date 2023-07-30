@@ -1,3 +1,5 @@
+![alt text](./banner.jpeg)
+
 <h1 align="left" id="macropower-title">:wave: Hello there!</h1>
 
 ![Version: 09.02.2023](https://img.shields.io/badge/version-25.12.2022-informational)&nbsp;
