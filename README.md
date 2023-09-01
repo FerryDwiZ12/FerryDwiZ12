@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td align="left">
- :office: &nbsp;I'm currently learning at <b>Amikom University<b>
+ :office: &nbsp;I'm graduated at <b>Amikom University<b>
 <br> :seedling: &nbsp;I’m currently learning <b>MERN<b>
 <br> :speech_balloon: &nbsp;I like to talk about <b>Code<b> and <b>Algorithm<b>
 <br> :mailbox: &nbsp;Ask me anything on my <b>Instagram<b>
