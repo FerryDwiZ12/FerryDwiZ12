@@ -10,7 +10,7 @@
 <tr>
 <td align="left">
  :office: &nbsp;I'm graduated at <b>Amikom University<b>
-<br> :seedling: &nbsp;I’m currently learning <b>MERN<b>
+<br> :seedling: &nbsp;I’m currently learning <b>MERN, Go<b>
 <br> :speech_balloon: &nbsp;I like to talk about <b>Code<b> and <b>Algorithm<b>
 <br> :mailbox: &nbsp;Ask me anything on my <b>Instagram<b>
 <br> :computer: &nbsp;Connect with me on <b>LinkedIn<b>
