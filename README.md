@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferrydwizulkhifli/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ferrydwizulkhifli/)
+[![Email: ferrydwizulkhifli@gmail.com](https://img.shields.io/badge/-ferrydwizulkhifli@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ferrydwizulkhifli@gmail.com)
 ![](https://komarev.com/ghpvc/?username=FerryDwiZ12)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=FerryDwiZ12.FerryDwiZ12&style=flat-square&color=0088cc)
@@ -32,11 +33,12 @@ I'm a sofware engineer who's always willing to learn and work across technologie
 <code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="37" src="https://github.com/github/explore/blob/main/topics/docker/docker.png" alt="Docker"></code>
 
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FerryDwiZ12&hide_border=true" />
-</details>
+
+### Github Streaks
+<br />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FerryDwiZ12&hide_border=true" />
+
 
 ### Languages :
 Bahasa and English
+
