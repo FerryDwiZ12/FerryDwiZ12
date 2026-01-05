@@ -1,50 +1,42 @@
+## Hey 👋, I'm [Ferry Dwi Zulkhifli](https://github.com/FerryDwiZ12/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferrydwizulkhifli/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ferrydwizulkhifli/)
+![](https://komarev.com/ghpvc/?username=FerryDwiZ12)
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=FerryDwiZ12.FerryDwiZ12&style=flat-square&color=0088cc)
+
+I'm a sofware engineer who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development.
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FerryDwiZ12&bg_color=020502&color=5CE723&line=5CE723&point=5CE723&area=true&border_color=5CE723)]
+
+### Languages and Tools:
+<!-- <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code> -->
 
 
-<h1 align="left" id="macropower-title">:wave: Hello there!</h1>
+<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript"></code>
+<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go"></code>
+<code><img height="37" src="https://github.com/github/explore/blob/main/topics/python/python.png" alt="Python"></code>
+<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="37" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs"></code>
+<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="37" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png" alt="nextjs"></code>
+<code><img height="37" src="https://github.com/github/explore/blob/main/topics/express/express.png" alt="Ex[ressJs"></code>
+<code><img height="37" src="https://github.com/github/explore/blob/main/topics/figma/figma.png" alt="Figma"></code>
+<code><img height="37" src="https://github.com/github/explore/blob/main/topics/linux/linux.png" alt="Linux"></code>
+<code><img height="37" src="https://github.com/github/explore/blob/main/topics/mqtt/mqtt.png" alt="MQTT"></code>
+<code><img height="37" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql"></code>
+<code><img height="37" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" alt="MongoDb"></code>
+<code><img height="37" src="https://github.com/github/explore/blob/main/topics/redis/redis.png" alt="Redis"></code>
+<code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="37" src="https://github.com/github/explore/blob/main/topics/docker/docker.png" alt="Docker"></code>
 
-![Version: 09.02.2023](https://img.shields.io/badge/version-25.12.2022-informational)&nbsp;
-[![GitHub: farkhanmaul](https://img.shields.io/github/followers/FerryDwiZ12?label=follow&style=social)](https://github.com/FerryDwiZ12)&nbsp;
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FerryDwiZ12&hide_border=true" />
+</details>
 
-
-<table>
-<tr>
-<td align="left">
- :office: &nbsp;I'm graduated at <b>Amikom University<b>
-<br> :seedling: &nbsp;I’m currently learning <b>MERN, Go<b>
-<br> :speech_balloon: &nbsp;I like to talk about <b>Code<b> and <b>Algorithm<b>
-<br> :mailbox: &nbsp;Ask me anything on my <b>Instagram<b>
-<br> :computer: &nbsp;Connect with me on <b>LinkedIn<b>
-</td>
-<td align="right">
-<a href="#FerryDwiZ12-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=FerryDwiZ12&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="FerryDwiZ12" align="right"/>
-</a>
-</td>
-</tr>
-</table>
-
-<table>
-  <tr>
-    <td align="left">
-   <a href="#FerryDwiZ12-title">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerryDwiZ12&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="FerryDwiZ12" align="left"/>
-    </a>
-    </td>
-   <td align="right">
-    <a href="#FerryDwiZ12-title">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FerryDwiZ12&theme=react&border=61dafb&hide_border=true" alt="FerryDwiZ12" align="right"/>
-    </a>
-    </td>
-  </tr>
-</table>
-
-<!---
-FerryDwiZ12/FerryDwiZ12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-## 🤝🏻 Connect with Me!
-[![Email: ferrydwizulkhifli@gmail.com](https://img.shields.io/badge/-ferrydwizulkhifli@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ferrydwizulkhifli@gmail.com)
-[![LinkedIn: FerryDwiZulkhifli](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferrydwizulkhifli/)](https://www.linkedin.com/in/ferrydwizulkhifli/)&nbsp;
-[![Instagram: Follow ferrydwizulkhifli](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ferrydwizulkhifli)&nbsp;
----
+### Languages :
+Bahasa and English
