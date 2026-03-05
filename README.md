@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Ferry Dwi Zulkhifli](https://github.com/FerryDwiZ12/)
+## Hey 👋, I'm [Zul](https://github.com/FerryDwiZ12/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferrydwizulkhifli/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ferrydwizulkhifli/)
